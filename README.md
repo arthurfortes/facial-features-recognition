@@ -13,6 +13,10 @@ FairFace:
 - https://github.com/joojs/fairface
 - https://github.com/dchen236/FairFace
 
+## Trained Models
+
+- https://drive.google.com/drive/folders/1dZ2a29N_QZGXn9WT5CW3tkPv20n4fn-Z?usp=sharing
+
 ## Usage
 
 >> python cam_detector.py
